@@ -1,4 +1,4 @@
-package lihaji;
+
 
 public class ShowCurrentTime {
 	public static void main(String[] args)

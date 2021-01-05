@@ -1,4 +1,4 @@
-package lihaji;
+
 
 public class ShowRuntimeErrors {
 	public static void main(String[] args)

@@ -1,4 +1,4 @@
-package lihaji;
+
 
 public class ComputeExpression {
 	public static void main(String[] args)

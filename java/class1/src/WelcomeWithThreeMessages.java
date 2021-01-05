@@ -1,4 +1,4 @@
-package lihaji;
+
 
 public class WelcomeWithThreeMessages {
 	public static void main(String[] args)

@@ -1,4 +1,4 @@
-package lihaji;
+
 
 public class ShowLogicErrors {
 	public static void main(String[] args)

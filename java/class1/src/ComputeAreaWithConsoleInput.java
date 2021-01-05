@@ -1,4 +1,3 @@
-package lihaji;
 import java.util.Scanner;
 
 public class ComputeAreaWithConsoleInput {
